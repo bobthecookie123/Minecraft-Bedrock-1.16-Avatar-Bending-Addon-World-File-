@@ -1,2 +1,2 @@
-# super-duper-repo
-super duper
+# mc-repo
+Text
